@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunzhaorong.cn</id>
     <title>荣研图文广告设计中心</title>
-    <updated>2020-08-02T10:59:33.867Z</updated>
+    <updated>2020-08-02T11:11:00.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.sunzhaorong.cn"/>
     <link rel="self" href="https://www.sunzhaorong.cn/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://www.sunzhaorong.cn/post/bu-fen-chan-pin-mu-lu/</id>
         <link href="https://www.sunzhaorong.cn/post/bu-fen-chan-pin-mu-lu/">
         </link>
-        <updated>2019-11-11T16:13:38.000Z</updated>
+        <updated>2020-07-31T16:13:38.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>感谢您打开这篇文章，下边是关于本中心部分产品目录的介绍</p>
 </blockquote>
@@ -34,18 +34,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[荣研广告传媒策划中心]]></title>
-        <id>https://www.sunzhaorong.cn/post/about/</id>
-        <link href="https://www.sunzhaorong.cn/post/about/">
+        <title type="html"><![CDATA[荣研图文广告设计中心]]></title>
+        <id>https://www.sunzhaorong.cn/post/company/</id>
+        <link href="https://www.sunzhaorong.cn/post/company/">
         </link>
-        <updated>2019-10-15T11:09:48.000Z</updated>
+        <updated>2020-07-24T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到荣研广告传媒策划中心的博客，很高兴遇见您！🤝</p>
+<p>欢迎来到荣研图文广告设计中心的博客，很高兴遇见您！🤝</p>
 </blockquote>
 <h2 id="关于本站">🏠 关于本站</h2>
 <p>本中心致力于为客户提供设计策划、广告品、宣传品、文化墙、标牌、庆典的定制化服务！</p>
 <h2 id="联系我">📬 联系我</h2>
-<figure data-type="image" tabindex="1"><img src="https://www.sunzhaorong.cn/post-images/1594464178770.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://www.sunzhaorong.cn/post-images/1596366522666.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
